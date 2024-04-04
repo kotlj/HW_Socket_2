@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\bin\Debug\HW_Client_2.exe.config
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\bin\Debug\HW_Client_2.exe
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\bin\Debug\HW_Client_2.pdb
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\obj\Debug\HW_Client_2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\obj\Debug\HW_Client_2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\obj\Debug\HW_Client_2.exe
+C:\Users\Admin\source\repos\HW_Client_2\HW_Client_2\obj\Debug\HW_Client_2.pdb

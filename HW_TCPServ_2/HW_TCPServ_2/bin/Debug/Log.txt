@@ -1,0 +1,7 @@
+who
+Connected: 04.04.2024 22:30:58
+UAH USD
+USD UAH
+UAH KZT
+USD EURO
+Disconnected: 04.04.2024 22:31:23
