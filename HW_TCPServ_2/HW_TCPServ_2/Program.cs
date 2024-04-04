@@ -38,7 +38,8 @@ namespace HW_TCPServ_2
                 int bytes = socket.Receive(bytesRec, bytesRec.Length, 0);
                 string dataRec = Encoding.UTF8.GetString(bytesRec, 0, bytes);
 
-                
+                Console.WriteLine($"{dataRec}\n");
+                Console.WriteLine($"Connected: {DateTime.Now.ToString()}\n");
                 sb.Append($"{dataRec}\n");
                 sb.Append($"Connected: {DateTime.Now.ToString()}");
                 sb.Append('\n');
@@ -69,6 +70,7 @@ namespace HW_TCPServ_2
                     {
                         resp = "disconnected";
                         sb.Append($"Disconnected: {DateTime.Now.ToString()}");
+                        Console.WriteLine($"Disconnected: {DateTime.Now.ToString()}");
                         socket.Send(Encoding.UTF8.GetBytes(resp));
                         break;
                     }
